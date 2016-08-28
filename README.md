@@ -4,18 +4,12 @@ Keeps text,sound,image memos along with coordinates to display Google Map of whe
 <html>
 
   <head>
-<style>
-img {
-height: 640px;
-width: 360px;
-}
-</style>
   </head>
 
   <body>
   <h3>Main Activity</h3>
   </br>
-<img src="GPSMemo-Screenshots/1.png" alt="hi" class="inline"/>
+<img src="GPSMemo-Screenshots/1.png" alt="hi" class="inline" height="640" width="360"/>
 </br>
 <h3>Add + view text note</h3>
 </br>
