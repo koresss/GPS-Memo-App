@@ -5,9 +5,9 @@ Keeps text,sound,image memos along with coordinates to display Google Map of whe
 
   <head>
 <style>
-.inline {
+img {
 height: 640px;
-width:360px;
+width: 360px;
 }
 </style>
   </head>
