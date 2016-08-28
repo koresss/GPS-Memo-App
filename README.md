@@ -9,7 +9,7 @@ Keeps text,sound,image memos along with coordinates to display Google Map of whe
   <body>
   <h3>Main Activity</h3>
   </br>
-<img src="GPSMemo-Screenshots/1.png" alt="hi" class="inline" height="640" width="360"/>
+<img src="GPSMemo-Screenshots/1.png" alt="hi" class="inline" height="384" width="216"/>
 </br>
 <h3>Add + view text note</h3>
 </br>
