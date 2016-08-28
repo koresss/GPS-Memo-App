@@ -4,7 +4,12 @@ Keeps text,sound,image memos along with coordinates to display Google Map of whe
 <html>
 
   <head>
-
+<style>
+.inline{
+height: 640;
+width:360;
+}
+</style>
   </head>
 
   <body>
