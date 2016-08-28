@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android-Final</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_txtnote">txtnote</string>
+    <string name="title_activity_imgnote">imgnote</string>
+    <string name="title_activity_soundnote">soundnote</string>
+    <string name="title_activity_viewnote">viewnote</string>
+</resources>
